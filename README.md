@@ -251,6 +251,29 @@ Content-Type: application/json
 
 ---
 
+## 🤝 ¿Cómo Colaborar en el Proyecto?
+
+¡Las contribuciones de la comunidad son bienvenidas y muy valoradas! Ya sea reportando errores, sugiriendo nuevos logotipos corporativos, mejorando la documentación o enviando código, puedes participar fácilmente siguiendo estos pasos:
+
+1. **Haz un Fork** del repositorio en GitHub: [github.com/ByChokeYT/generador-qr-empresarial-](https://github.com/ByChokeYT/generador-qr-empresarial-)
+2. **Crea tu rama de funcionalidad:**
+   ```bash
+   git checkout -b feature/nueva-funcionalidad
+   ```
+3. **Realiza tus cambios y haz commit** siguiendo el estándar [Conventional Commits](https://www.conventionalcommits.org/):
+   ```bash
+   git commit -m "feat(logos): agregar logotipo oficial de Stripe"
+   ```
+4. **Haz push a tu rama:**
+   ```bash
+   git push origin feature/nueva-funcionalidad
+   ```
+5. **Abre un Pull Request** explicando claramente los cambios realizados y su impacto.
+
+> 📖 Para ver las directrices completas de código, configuración local y buenas prácticas, consulta nuestra **[Guía de Contribución (CONTRIBUTING.md)](CONTRIBUTING.md)**.
+
+---
+
 ## 👨‍💻 Autor y Contacto
 
 Diseñado y desarrollado con los más altos estándares de ingeniería por:
