@@ -206,16 +206,15 @@ Genera un código QR que permite conectarse automáticamente a una red WiFi. Inc
 ### WhatsApp
 Genera un código QR que abre WhatsApp con un mensaje predefinido.
 
-## 🤝 Contribución
+## 👨‍💻 Autor y Contacto
 
-Si vas a contribuir a este proyecto:
+Desarrollado y mantenido con dedicación por **bychoke** ([José Luis Choquevillca](https://bychokeportafolio.netlify.app/)).
 
-1. Asegúrate de crear tu archivo `.env` con `VITE_API_URL`
-2. Instala las dependencias con `pnpm install`
-3. Ejecuta el servidor de desarrollo con `pnpm dev`
-4. Sigue las convenciones de código existentes
-5. Prueba tus cambios localmente antes de hacer un pull request
+- **Portafolio:** [bychokeportafolio.netlify.app](https://bychokeportafolio.netlify.app/)
+- **GitHub:** [@ByChokeYT](https://github.com/ByChokeYT)
+- **LinkedIn:** [José Luis Choquevillca](https://www.linkedin.com/in/jose-luis-choquevillca)
 
+## 📄 Licencia
 
-Espero que el proyecto crezca y que siga siendo gratis , si me pueden apoyar en mi pagina de Facebook "BigNight" para que siga creciendo la comunidad y haces mas cosas mas adelante 
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles. 
 

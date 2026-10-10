@@ -174,14 +174,16 @@ Para desplegar:
 - Los logos deben ser imágenes válidas (PNG, JPG, etc.)
 - El tamaño recomendado del código QR está entre 200 y 2000 píxeles
 
-## 🤝 Contribución
+## 👨‍💻 Autor y Contacto
 
-Si vas a contribuir a este proyecto:
+Desarrollado y mantenido por **bychoke** ([José Luis Choquevillca](https://bychokeportafolio.netlify.app/)).
 
-1. Asegúrate de crear tu archivo `.env` con las variables necesarias
-2. Sigue las convenciones de código existentes
-3. Prueba tus cambios localmente antes de hacer un pull request
+- **Portafolio:** [bychokeportafolio.netlify.app](https://bychokeportafolio.netlify.app/)
+- **GitHub:** [@ByChokeYT](https://github.com/ByChokeYT)
+- **LinkedIn:** [José Luis Choquevillca](https://www.linkedin.com/in/jose-luis-choquevillca)
 
-Espero que el proyecto crezca y que siga siendo gratis , si me pueden apoyar en mi pagina de Facebook "BigNight" para que siga creciendo la comunidad y haces mas cosas mas adelante 
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información. 
 
 
